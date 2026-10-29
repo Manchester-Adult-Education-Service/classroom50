@@ -1,4 +1,19 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "week-1-part-1",
+      "name": "Week 1 Exercise (Part 1)",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "fikm8291",
+        "repo": "Week-1-Intro-to-Python-Part-1",
+        "branch": "main"
+      }
+    }
+  ]
 }
