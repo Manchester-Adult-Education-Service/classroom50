@@ -13,7 +13,27 @@
         "owner": "fikm8291",
         "repo": "Week-1-Intro-to-Python-Part-1",
         "branch": "main"
-      }
+      },
+      "tests": [
+        {
+          "name": "Tasks 1-3 Core Basics",
+          "type": "io",
+          "run": "python Ex1_intro.py",
+          "points": 3,
+          "comparison": "included",
+          "input": "Python123",
+          "expected": "Welcome to Python!\nHello\n15\nAccess Granted"
+        },
+        {
+          "name": "Extension 1 - Number Squaring",
+          "type": "io",
+          "run": "python Ex1_intro.py",
+          "points": 1,
+          "comparison": "included",
+          "input": "Python123\n6\ndummy\ndummy\ndummy\ndummy",
+          "expected": "36"
+        }
+      ]
     }
   ]
 }
