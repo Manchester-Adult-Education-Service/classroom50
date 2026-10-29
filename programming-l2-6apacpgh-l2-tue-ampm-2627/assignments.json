@@ -16,22 +16,31 @@
       },
       "tests": [
         {
-          "name": "Tasks 1-3 Core Basics",
-          "type": "io",
-          "run": "python Ex1_intro.py",
-          "points": 3,
-          "comparison": "included",
-          "input": "Python123",
-          "expected": "Welcome to Python!\nHello\n15\nAccess Granted"
-        },
-        {
-          "name": "Extension 1 - Number Squaring",
+          "name": "Task 1: Welcome & Hello Greeting",
           "type": "io",
           "run": "python Ex1_intro.py",
           "points": 1,
           "comparison": "included",
-          "input": "Python123\n6\ndummy\ndummy\ndummy\ndummy",
-          "expected": "36"
+          "input": "Python123",
+          "expected": "Welcome to Python!\nHello"
+        },
+        {
+          "name": "Task 2: Addition",
+          "type": "io",
+          "run": "python Ex1_intro.py",
+          "points": 1,
+          "comparison": "included",
+          "input": "Python123",
+          "expected": "15"
+        },
+        {
+          "name": "Task 3: Password Check",
+          "type": "io",
+          "run": "python Ex1_intro.py",
+          "points": 1,
+          "comparison": "included",
+          "input": "Python123",
+          "expected": "Access Granted"
         }
       ]
     }
