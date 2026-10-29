@@ -34,13 +34,22 @@
           "expected": "15"
         },
         {
-          "name": "Task 3: Password Check",
+          "name": "Task 3: Password Check (Granted)",
           "type": "io",
           "run": "python Ex1_intro.py",
           "points": 1,
           "comparison": "included",
           "input": "Python123",
           "expected": "Access Granted"
+        },
+        {
+          "name": "Task 3: Password Check (Denied)",
+          "type": "io",
+          "run": "python Ex1_intro.py",
+          "points": 1,
+          "comparison": "included",
+          "input": "WrongPass",
+          "expected": "Access Denied"
         }
       ]
     }
