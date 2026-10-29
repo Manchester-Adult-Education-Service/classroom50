@@ -1,4 +1,36 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "week-1-part-1": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "t-hnh10",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "programming-l2-6apacpgh-l2-tue-ampm-2627",
+              "assignment_type": "individual",
+              "owner": "t-hnh10",
+              "submission": "submit/2026-10-29T15-35-22Z-ab2b754",
+              "commit": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/commit/ab2b754a860ef6136f660e0d2142eceea76dcbd1",
+              "release": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/releases/tag/submit%2F2026-10-29T15-35-22Z-ab2b754",
+              "review": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/compare/76e1d9efba4d9de5ce372665ac70bb33eb48bb20...ab2b754a860ef6136f660e0d2142eceea76dcbd1",
+              "datetime": "2026-10-29T15:35:02Z",
+              "graded_at": "2026-10-29T15:35:34Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "t-hnh10",
+                "id": 48788201
+              }
+            }
+          ]
+        }
+      ],
+      "collected_at": "2026-10-29T15:43:12Z",
+      "detected": []
+    }
+  }
 }
