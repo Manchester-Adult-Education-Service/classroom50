@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Programming L2 (6APACPGH L2 Tue AMPM 2627 TB1)",
+  "short_name": "programming-l2-6apacpgh-l2-tue-ampm-2627",
+  "term": "Teaching Block 1 2026-2027",
+  "org": "Manchester-Adult-Education-Service",
+  "team": {
+    "id": 20413353,
+    "slug": "classroom50-programming-l2-6apacpgh-l2-tue-ampm-2627"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20413354,
+      "slug": "classroom50-programming-l2-6apacpgh-l2-tue-ampm-2627-teacher"
+    },
+    "hta": {
+      "id": 20413355,
+      "slug": "classroom50-programming-l2-6apacpgh-l2-tue-ampm-2627-hta"
+    },
+    "ta": {
+      "id": 20413358,
+      "slug": "classroom50-programming-l2-6apacpgh-l2-tue-ampm-2627-ta"
+    }
+  }
+}
