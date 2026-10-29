@@ -12,6 +12,44 @@
               "classroom": "programming-l2-6apacpgh-l2-tue-ampm-2627",
               "assignment_type": "individual",
               "owner": "t-hnh10",
+              "submission": "submit/2026-10-29T15-58-48Z-0085243",
+              "commit": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/commit/0085243bfecdbfcfb16abd6a3b29a2691e95f2a8",
+              "release": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/releases/tag/submit%2F2026-10-29T15-58-48Z-0085243",
+              "review": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/compare/76e1d9efba4d9de5ce372665ac70bb33eb48bb20...0085243bfecdbfcfb16abd6a3b29a2691e95f2a8",
+              "datetime": "2026-10-29T15:58:31Z",
+              "graded_at": "2026-10-29T15:59:01Z",
+              "score": 3,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Task 1: Welcome & Hello Greeting",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Task 2: Addition",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Task 3: Password Check",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "t-hnh10",
+                "id": 48788201
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "programming-l2-6apacpgh-l2-tue-ampm-2627",
+              "assignment_type": "individual",
+              "owner": "t-hnh10",
               "submission": "submit/2026-10-29T15-46-58Z-4ed7c04",
               "commit": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/commit/4ed7c0410ae238722ffc665fdc1e9142d6601034",
               "release": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/releases/tag/submit%2F2026-10-29T15-46-58Z-4ed7c04",
@@ -67,7 +105,7 @@
           ]
         }
       ],
-      "collected_at": "2026-10-29T15:57:41Z",
+      "collected_at": "2026-10-29T15:59:54Z",
       "detected": []
     }
   }
