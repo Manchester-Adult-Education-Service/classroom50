@@ -17,20 +17,26 @@
               "release": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/releases/tag/submit%2F2026-10-29T15-46-58Z-4ed7c04",
               "review": "https://github.com/Manchester-Adult-Education-Service/programming-l2-6apacpgh-l2-tue-ampm-2627-week-1-part-1-t-hnh10/compare/76e1d9efba4d9de5ce372665ac70bb33eb48bb20...4ed7c0410ae238722ffc665fdc1e9142d6601034",
               "datetime": "2026-10-29T15:46:41Z",
-              "graded_at": "2026-10-29T15:48:16Z",
-              "score": 0,
-              "max-score": 4,
+              "graded_at": "2026-10-29T15:57:26Z",
+              "score": 3,
+              "max-score": 3,
               "tests": [
                 {
-                  "test-name": "Tasks 1-3 Core Basics",
-                  "passed": false,
-                  "score": 0,
-                  "max-score": 3
+                  "test-name": "Task 1: Welcome & Hello Greeting",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
                 },
                 {
-                  "test-name": "Extension 1 - Number Squaring",
-                  "passed": false,
-                  "score": 0,
+                  "test-name": "Task 2: Addition",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Task 3: Password Check",
+                  "passed": true,
+                  "score": 1,
                   "max-score": 1
                 }
               ],
@@ -61,7 +67,7 @@
           ]
         }
       ],
-      "collected_at": "2026-10-29T15:56:29Z",
+      "collected_at": "2026-10-29T15:57:41Z",
       "detected": []
     }
   }
