@@ -52,6 +52,24 @@
           "expected": "Access Denied"
         }
       ]
+    },
+    {
+      "slug": "playground",
+      "name": "Playground",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "fikm8291",
+        "repo": "playground",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
