@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "week-1-part-1",
-      "name": "Week 1 Exercise (Part 1)",
+      "name": "Week 1: Intro to Python (Part 1)",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
@@ -19,7 +19,7 @@
           "name": "Task 1: Welcome & Hello Greeting",
           "type": "io",
           "run": "python Ex1_intro.py",
-          "points": 1,
+          "points": 10,
           "comparison": "included",
           "input": "Python123",
           "expected": "Welcome to Python!\nHello"
@@ -28,7 +28,7 @@
           "name": "Task 2: Addition",
           "type": "io",
           "run": "python Ex1_intro.py",
-          "points": 1,
+          "points": 10,
           "comparison": "included",
           "input": "Python123",
           "expected": "15"
@@ -37,7 +37,7 @@
           "name": "Task 3: Password Check (Granted)",
           "type": "io",
           "run": "python Ex1_intro.py",
-          "points": 1,
+          "points": 5,
           "comparison": "included",
           "input": "Python123",
           "expected": "Access Granted"
@@ -46,7 +46,7 @@
           "name": "Task 3: Password Check (Denied)",
           "type": "io",
           "run": "python Ex1_intro.py",
-          "points": 1,
+          "points": 5,
           "comparison": "included",
           "input": "WrongPass",
           "expected": "Access Denied"
